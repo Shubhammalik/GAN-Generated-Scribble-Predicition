@@ -8,9 +8,15 @@ Idea was inspired from Kaggle's competition - https://www.kaggle.com/c/quickdraw
 
 # Overview
 
-Trained a GAN model on few categories of objects from Quick Draw dataset. Save generated images in directory.(scribblegan.py)
-Built a training model using a ConvNet and MLP Model (train.py).
-Developed prediction model (server.py) which takes input from either canvas or GAN category dropdown (use saved images).
+- Trained a GAN model on few categories of objects from Quick Draw dataset. Save generated images in directory.(scribble_generation_gan.py)
+
+- Created script to download the data directly from the quick draw dataset website using [download_data.py](https://github.com/Shubhammalik/Scribble-generation-using-GAN/blob/master/download_data.py).
+
+- Built a training model using a ConvNet and MLP Model [train.py](https://github.com/Shubhammalik/Scribble-generation-using-GAN/blob/master/train.py).
+
+- Developed prediction model [server.py](https://github.com/Shubhammalik/Scribble-generation-using-GAN/blob/master/server.py) which takes input from either canvas (from webapp) or GAN category dropdown (use saved images) and classify the scribbles among 7 categories.
+
+- Presented the results on [webapplication](https://github.com/Shubhammalik/Scribble-generation-using-GAN/blob/master/templates/index1.html).
 
 #Tech Stack
 ML Libraries - Tensorflow, Keras, Scipy, Python
