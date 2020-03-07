@@ -17,5 +17,13 @@ ML Libraries - Tensorflow, Keras, Scipy, Python
 Webapp - Electron JS, HTML, JQuery and Flask App.
 NOTE: This project works in Tensorflow 2.x with v1 compatibility.
 
-# Images WebApp and model -
+# Images WebApp and model
+**Web Application**
+![Web app](https://github.com/Shubhammalik/Scribble-generation-using-GAN/blob/master/static/webapp.png)
 
+**GAN Generated sample**
+![GAN sample](https://github.com/Shubhammalik/Scribble-generation-using-GAN/blob/master/static/gan-final_chart.png)
+
+
+**GAN Loss**
+![GAN Loss](https://github.com/Shubhammalik/Scribble-generation-using-GAN/blob/master/static/gan-loss.png)
