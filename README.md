@@ -21,6 +21,7 @@ Idea was inspired from Kaggle's competition - https://www.kaggle.com/c/quickdraw
 # Tech Stack
 1) ML Libraries - Tensorflow, Keras, Scipy, Python
 2) Webapp - Electron JS, HTML, JQuery and Flask App.
+
 **NOTE:** This project works in Tensorflow 2.x with v1 compatibility.
 
 # Images WebApp and model
