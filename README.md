@@ -18,10 +18,10 @@ Idea was inspired from Kaggle's competition - https://www.kaggle.com/c/quickdraw
 
 - Presented the results on [webapplication](https://github.com/Shubhammalik/Scribble-generation-using-GAN/blob/master/templates/index1.html).
 
-#Tech Stack
-ML Libraries - Tensorflow, Keras, Scipy, Python
-Webapp - Electron JS, HTML, JQuery and Flask App.
-NOTE: This project works in Tensorflow 2.x with v1 compatibility.
+# Tech Stack
+1) ML Libraries - Tensorflow, Keras, Scipy, Python
+2) Webapp - Electron JS, HTML, JQuery and Flask App.
+**NOTE:** This project works in Tensorflow 2.x with v1 compatibility.
 
 # Images WebApp and model
 **Web Application**
