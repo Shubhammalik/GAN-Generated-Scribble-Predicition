@@ -28,6 +28,9 @@ Idea was inspired from Kaggle's competition - https://www.kaggle.com/c/quickdraw
 **Web Application**
 ![Web app](https://github.com/Shubhammalik/Scribble-generation-using-GAN/blob/master/static/webapp.png)
 
+**British Columbia Artificial Intelligence Showcase Poster**
+![BC AI Poster](https://github.com/Shubhammalik/GAN-Generated-Scribble-Identification/blob/master/BC_AI_Showcase_Poster/BC%20AI%20showcase%20poster.png)
+
 **GAN Generated sample**
 ![GAN sample](https://github.com/Shubhammalik/Scribble-generation-using-GAN/blob/master/static/gan-final_chart.png)
 
