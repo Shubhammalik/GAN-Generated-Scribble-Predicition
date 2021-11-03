@@ -1,0 +1,60 @@
+html {
+	font-size: 14px;
+	font-family: 'Dosis', sans-serif;
+	background-color: azure;
+}
+
+#heading {
+	font-size: 3rem;
+	display: flex;
+	justify-content: center;
+	color: rgb(0, 195, 255)
+}
+
+#main-area {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;  
+}
+
+#call_to_action {
+	font-size: 1.5rem;
+	color: #4DAF7C;
+	position: relative;
+	left: 44px
+}
+
+#canvas {
+	border: 8px solid;
+	border-radius: 10px;
+	cursor: crosshair;
+	position: relative;
+	left: 15px;
+	top: 10px
+}
+
+.push_buttons {
+	background-color: #4DAF7C;
+	font-size: 16px;
+	border: none;
+	border-radius: 20px;
+	padding: 10px 34px;
+	text-align: center;	
+	position: relative;
+	box-shadow: 0px 0px 3px blue;
+}
+
+table {
+	font-size: 1.3rem;
+	border: 1px solid black;
+	border-collapse: collapse;
+	position: relative;
+	bottom: 23px;
+}
+
+tr, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 110px;
+	text-align: center;
+}
