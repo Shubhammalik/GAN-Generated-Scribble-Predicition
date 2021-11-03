@@ -1,8 +1,7 @@
 """
 FOR CERTIFICATION ERROR
 
-MAC users
-All you need to do is to install Python certificates! A common issue on macOS.
+MAC users needs to install Python certificates.
 Search for these files in Finder:
 Install Certificates.command
 Update Shell Profile.command
