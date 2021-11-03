@@ -26,7 +26,7 @@ mlp = load_model("./models/mlp7.h5")
 conv = load_model("./models/conv_3.h5")
 graph = tf.get_default_graph()
 OBJECTS = {0: "Airplane", 1: "Wine Bottle", 2: "Butterfly", 3: "Banana",4:"T-Shirt",5:"Umbrella",6:"Grapes"}
-
+ 
 
 @app.route("/", methods=["GET", "POST"])
 def ready():
