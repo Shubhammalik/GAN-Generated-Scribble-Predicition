@@ -1,6 +1,6 @@
 # Scribble-generation-using-GAN
 
-Models - CNN, MLP, GAN, RF, 
+Models - CNN, MLP, GAN, RF
 
 This project aims at predicting scribbles from canvas and also using GAN generated images.
 
