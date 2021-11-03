@@ -23,7 +23,7 @@ for i in range(0, N_OBJECTS):
 # number of samples to take in each class
 N = 2000
 
-# Training epochs
+# Training epochs 
 N_EPOCHS = 20
 
 # data files in the same order as defined in FRUITS
